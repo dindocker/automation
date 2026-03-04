@@ -1,8 +1,8 @@
 # automation
 automation first assignment
 
-# Terraform Azure Assignment – 7505
-# This project provisions a complete Azure environment using Terraform. The deployment includes Linux and Windows virtual machines, a load balancer, PostgreSQL Flexible Server, networking, storage, monitoring, and data disks — all orchestrated through reusable Terraform modules.
+Terraform Azure Assignment – 7505
+This project provisions a complete Azure environment using Terraform. The deployment includes Linux and Windows virtual machines, a load balancer, PostgreSQL Flexible Server, networking, storage, monitoring, and data disks — all orchestrated through reusable Terraform modules.
 
 Architecture Overview
 The environment includes:
@@ -24,8 +24,8 @@ The environment includes:
 •	Storage Account for boot diagnostics
 All resources are deployed using Terraform modules for clarity, reusability, and maintainability.
 
-**Repository Structure
-**terraform-assignment1-7505/
+Repository Structure
+terraform-assignment1-7505/
 │
 ├── main.tf
 ├── providers.tf
