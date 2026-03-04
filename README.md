@@ -22,7 +22,6 @@ The environment includes:
 •	Log Analytics Workspace
 •	Recovery Services Vault
 •	Storage Account for boot diagnostics
-All resources are deployed using Terraform modules for clarity, reusability, and maintainability.
 
 Repository Structure
 terraform-assignment1-7505/
