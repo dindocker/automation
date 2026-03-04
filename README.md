@@ -110,4 +110,3 @@ The deployment provides:
 •	Windows VM hostname, private IP, public IP, and FQDN
 •	Resource group name
 •	VNet name
-These outputs help with SSH/RDP access and load balancer testing.
