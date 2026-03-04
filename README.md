@@ -98,7 +98,10 @@ terraform validate
 terraform plan
 4. Apply the deployment
 terraform apply --auto-approve
-5. Destroy the environment (optional)
+5. list the state
+terraform state list | nl
+6. terraform output
+7. Destroy the environment (optional)
 terraform destroy
 
 Outputs
